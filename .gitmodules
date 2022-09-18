@@ -8,8 +8,8 @@
 	url = https://github.com/neurogenomics/epicompare
 	shallow = true
 	registered = true
-[submodule "MungeSumstats"]
-	path = MungeSumstats
-	url = https://github.com/neurogenomics/mungesumstats
+[submodule "orthogene"]
+	path = orthogene
+	url = https://github.com/neurogenomics/orthogene
 	shallow = true
 	registered = true
