@@ -3,9 +3,9 @@
     "package": "EpiCompare"
   },
   {
-    "package": "orthogene"
+    "package": "MungeSumstats"
   },
   {
-    "package": "MungeSumstats"
+    "package": "orthogene"
   }
 ]
