@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rworkflows"]
+	path = rworkflows
+	url = https://github.com/neurogenomics/rworkflows
+	shallow = true
+	registered = true
 [submodule "EpiCompare"]
 	path = EpiCompare
 	url = https://github.com/neurogenomics/epicompare

@@ -1,5 +1,9 @@
 [
   {
+    "package": "rworkflows",
+    "oncran": true
+  },
+  {
     "package": "EpiCompare"
   },
   {
