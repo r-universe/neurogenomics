@@ -8,9 +8,9 @@
 	url = https://github.com/neurogenomics/rworkflows
 	shallow = true
 	registered = true
-[submodule "EpiCompare"]
-	path = EpiCompare
-	url = https://github.com/neurogenomics/epicompare
+[submodule "orthogene"]
+	path = orthogene
+	url = https://github.com/neurogenomics/orthogene
 	shallow = true
 	registered = true
 [submodule "MungeSumstats"]
@@ -18,8 +18,8 @@
 	url = https://github.com/neurogenomics/mungesumstats
 	shallow = true
 	registered = true
-[submodule "orthogene"]
-	path = orthogene
-	url = https://github.com/neurogenomics/orthogene
+[submodule "EpiCompare"]
+	path = EpiCompare
+	url = https://github.com/neurogenomics/epicompare
 	shallow = true
 	registered = true
