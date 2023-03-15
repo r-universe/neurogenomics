@@ -1,15 +1,15 @@
 [
   {
-    "package": "rworkflows",
-    "oncran": true
-  },
-  {
-    "package": "orthogene"
+    "package": "EpiCompare"
   },
   {
     "package": "MungeSumstats"
   },
   {
-    "package": "EpiCompare"
+    "package": "orthogene"
+  },
+  {
+    "package": "rworkflows",
+    "oncran": true
   }
 ]
