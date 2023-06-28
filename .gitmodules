@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EpiCompare"]
 	path = EpiCompare
 	url = https://github.com/neurogenomics/epicompare
-	shallow = true
-	registered = true
 [submodule "MungeSumstats"]
 	path = MungeSumstats
 	url = https://github.com/neurogenomics/mungesumstats
-	shallow = true
-	registered = true
 [submodule "orthogene"]
 	path = orthogene
 	url = https://github.com/neurogenomics/orthogene
-	shallow = true
-	registered = true
 [submodule "rworkflows"]
 	path = rworkflows
 	url = https://github.com/neurogenomics/rworkflows
-	shallow = true
-	registered = true
